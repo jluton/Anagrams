@@ -1,0 +1,14 @@
+{
+  "name": "Anagrams",
+  "version": "1.0.0",
+  "description": "Prints all anagrams for a given word.",
+  "main": "anagrams.js",
+  "repository": "https://github.com/jluton/Anagrams.git",
+  "author": "Jake Luton <jake.luton92@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {},
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
