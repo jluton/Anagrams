@@ -9,6 +9,6 @@
   "private": false,
   "scripts": {},
   "dependencies": {
-    "xmlhttprequest": "^1.8.0"
+    "node-fetch": "^2.1.2"
   }
 }
